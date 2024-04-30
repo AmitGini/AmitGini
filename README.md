@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello, I'm Amit Gini! 👋
 
-<!--
-**AmitGini/AmitGini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📩 Contact Information
+### 🔗 Connect with Me
+- You can connect with me through [LinkedIn](https://www.linkedin.com/in/amitgini/) 🤝
+- You can Email me through [Gmail](amitgini0369@gmail.com) 📫
+- Or message me on [Instagram](https://www.instagram.com/amit.gini/) or [Facebook](https://www.facebook.com/amit.gini1/) 😀
 
-Here are some ideas to get you started:
+## Experience
+### Student Data Migration
+#### Miraclon Israel (Petah Tikva, Israel)  
+*July 2023 - December 2023 (6 months)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Military Service as Reserve officer count? if not -> count++*
+
+## 🐍 Programming Languages
+- Python
+- Java
+- C
+- C++
