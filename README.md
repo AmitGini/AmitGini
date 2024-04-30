@@ -3,7 +3,7 @@
 ## 📩 Contact Information
 ### 🔗 Connect with Me
 - You can connect with me through [LinkedIn](https://www.linkedin.com/in/amitgini/) 🤝
-- You can Email me through [Gmail](amitgini0369@gmail.com) 📫
+- You can Email me through (amitgini0369@gmail.com 📫
 - Or message me on [Instagram](https://www.instagram.com/amit.gini/) or [Facebook](https://www.facebook.com/amit.gini1/) 😀
 
 ## Experience
