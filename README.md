@@ -11,7 +11,7 @@
 #### Miraclon Israel (Petah Tikva, Israel)  
 *July 2023 - December 2023 (6 months)*
 
-*Military Service as Reserve officer duty count? if not -> count++*
+*Military Service as HR Reserve officer count? if not -> count++*
 
 ## 🐍 Programming Languages
 - Python
