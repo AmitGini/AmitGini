@@ -7,8 +7,7 @@
 - Or message me on [Instagram](https://www.instagram.com/amit.gini/) or [Facebook](https://www.facebook.com/amit.gini1/) 😀
 
 ## Experience
-### Student Data Migration
-#### Miraclon Israel (Petah Tikva, Israel)  
+##### Student Data Migration - Miraclon Israel (Petah Tikva, Israel)  
 *July 2023 - December 2023 (6 months)*
 
 *Military Service as HR Reserve officer count? if not -> count++*
