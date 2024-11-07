@@ -13,7 +13,7 @@
 *Military Service as HR Reserve officer count? if not -> count++*
 
 ## 🐍 Programming Languages
-- Python
 - Java
-- C
 - C++
+- Python
+- C
