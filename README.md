@@ -5,9 +5,10 @@
 - You can Email me through amitgini0369@gmail.com 📫
 
 ## Experience
-### Student Data Migration, Miraclon Israel
-*July 2023 - December 2023*
-•	Migrated enterprise data systems from KODAK to Salesforce, ensuring integrity and accuracy of metadata throughout the migration process.
+### Python Developer, ByteDefend CyberLab.
+*April 2026 – On Going*
+
+• Engineered an automated Content Disarm and Reconstruction (CDR) pipeline for AI models, alongside a highly scalable backend infrastructure that leverages parallel processing to handle concurrent requests and optimize resource allocation.
 
 ### Data Science Intern, BUFFERZONE®
 *March 2025 – June 2025*
@@ -18,12 +19,16 @@
 
 •	Utilize C#, Python, ETL flow to Excel sheets, TensorFlow, Jira, Confluence, Roboflow, Slack.
 
+### Student Data Migration, Miraclon Israel
+*July 2023 - December 2023*
+•	Migrated enterprise data systems from KODAK to Salesforce, ensuring integrity and accuracy of metadata throughout the migration process.
+
 ### Automated Real Estate Documentation Pipeline
 •	Developed automated end-to-end workflow, to save time in technical process of building a pledge and taboo real-estate summary.
 
 •	Utilize Playwright for web automation to extract government documents and extracting statistical information form Nadlan gov web to JSON Format, utilize Gmail API for retrieving pdf documents and send the output to the costumer, utilize PDF to Image library, utilize OCR process to filter irrelevant images, utilize Gemini API to extract the image data (OCR library’s failed to extract Hebrew characters in high accuracy) to JSON, Utilize Google Sheets API to create the final output which is summarized doc sheet.
 
-### Open-Source Contribution (On-Going): abcvoting Python Library
+### Open-Source Contribution: abcvoting Python Library
 •	Approved to implement a new Maximin-Support (MMS) method, based on an October 2023 academic publication proposing an efficient, numerically robust alternative to existing ILP solutions for multi-winner voting rules.
 •	The MMS method innovatively reframes the support-maximization process as a sequence of max-flow problems, enabling graph-based computation of candidate support.
 
